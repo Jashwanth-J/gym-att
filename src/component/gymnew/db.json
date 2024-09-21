@@ -1,0 +1,10 @@
+
+{
+    "gyms": [
+        {
+            "id": 1,
+            "name": "Gym Flow",
+            "location": "Your City"
+        }
+    ]
+}

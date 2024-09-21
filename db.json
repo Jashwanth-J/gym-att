@@ -1,0 +1,10 @@
+{
+    "profile":[
+        {"id":1, "name":"senthil"},
+        {"id":2, "name":"Guna"}
+
+    ],
+    "trainings":[
+        {"id":1, "course":"react"}
+    ]
+}
